@@ -1,2 +1,5 @@
 # cloudDashBoardFront
-控制面板前端
+
+基于vue-element-admin实现的前端。
+
+https://github.com/PanJiaChen/vue-element-admin
